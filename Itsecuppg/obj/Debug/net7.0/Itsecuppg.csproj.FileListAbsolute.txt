@@ -1,0 +1,15 @@
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/bin/Debug/net7.0/Itsecuppg
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/bin/Debug/net7.0/Itsecuppg.deps.json
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/bin/Debug/net7.0/Itsecuppg.runtimeconfig.json
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/bin/Debug/net7.0/Itsecuppg.dll
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/bin/Debug/net7.0/Itsecuppg.pdb
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/obj/Debug/net7.0/Itsecuppg.csproj.AssemblyReference.cache
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/obj/Debug/net7.0/Itsecuppg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/obj/Debug/net7.0/Itsecuppg.AssemblyInfoInputs.cache
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/obj/Debug/net7.0/Itsecuppg.AssemblyInfo.cs
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/obj/Debug/net7.0/Itsecuppg.csproj.CoreCompileInputs.cache
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/obj/Debug/net7.0/Itsecuppg.dll
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/obj/Debug/net7.0/refint/Itsecuppg.dll
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/obj/Debug/net7.0/Itsecuppg.pdb
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/obj/Debug/net7.0/Itsecuppg.genruntimeconfig.cache
+/Users/kristofferjonsson/Projects/Itsecuppg/Itsecuppg/obj/Debug/net7.0/ref/Itsecuppg.dll
